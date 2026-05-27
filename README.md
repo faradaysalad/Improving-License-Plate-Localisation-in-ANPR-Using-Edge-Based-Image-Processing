@@ -58,30 +58,6 @@ License Plate Localisation Output
 
 ---
 
-# 📂 Project Structure
-
-```bash
-anpr-license-plate-localisation/
-│
-├── src/
-│   ├── gui/
-│   ├── processing/
-│   ├── detection/
-│   └── utils/
-│
-├── images/
-│   ├── input/
-│   └── output/
-│
-├── report/
-│   └── ANPR_FinalReport_GP2.pdf
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 # 🚀 Getting Started
 
 ## Prerequisites
@@ -152,11 +128,11 @@ The most suitable candidate region is selected and displayed as the final locali
 
 ## Original Vehicle Image
 
-_Add screenshot here_
+<img width="530" height="397" alt="test_007" src="https://github.com/user-attachments/assets/1ef39d75-1042-4a6a-bad5-22f4e571e7d1" />
 
 ## Localised License Plate Output
 
-_Add screenshot here_
+<img width="1207" height="943" alt="image" src="https://github.com/user-attachments/assets/c5124c34-d92c-4bfc-8cd8-23913bd92415" />
 
 ---
 

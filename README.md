@@ -21,6 +21,35 @@ The system is implemented as a **desktop-based Java application** with a graphic
 
 ---
 
+# ✨ Features
+
+✅ Edge-based license plate localisation  
+✅ Grayscale preprocessing and image enhancement  
+✅ Gaussian filtering for noise reduction  
+✅ Canny edge detection implementation  
+✅ Morphological processing and thinning  
+✅ Connected component analysis  
+✅ Java Swing GUI integration  
+✅ Lightweight implementation without AI models  
+✅ Interactive keyboard controls to visualise each image processing stage  
+
+---
+
+# ⌨️ Interactive Keyboard Controls
+
+The system allows users to visualise image processing stages interactively using keyboard shortcuts.
+
+| Key | Function |
+|---|---|
+| `1` | Display grayscale preprocessing result |
+| `2` | Display edge detection result |
+| `3` | Display morphological processing result |
+| `4` | Display final localised license plate output |
+
+This feature helps users better understand the complete ANPR localisation pipeline step-by-step.
+
+---
+
 # 🖼️ System Architecture
 
 ```text
@@ -130,6 +159,8 @@ The most suitable candidate region is selected and displayed as the final locali
 
 <img width="530" height="397" alt="test_007" src="https://github.com/user-attachments/assets/1ef39d75-1042-4a6a-bad5-22f4e571e7d1" />
 
+---
+
 ## Localised License Plate Output
 
 <img width="1207" height="943" alt="image" src="https://github.com/user-attachments/assets/c5124c34-d92c-4bfc-8cd8-23913bd92415" />
@@ -196,7 +227,6 @@ Potential future enhancements include:
 - Muhammad Nur Luqman Bin Zamry
 
 ---
-
 
 # 📄 License
 

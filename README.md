@@ -223,8 +223,6 @@ Potential future enhancements include:
 # 👨‍💻 Authors
 
 - **Farah Dania Binti Imam Nawawi** (A205566)
-- Muhammad Dani Ilhan Bin Abd Gani
-- Muhammad Nur Luqman Bin Zamry
 
 ---
 
